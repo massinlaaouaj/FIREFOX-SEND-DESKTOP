@@ -1,4 +1,4 @@
-# FIREFOX-SEND-ZENITY
+# FIREFOX SEND ZENITY
 Upload your files, images,etc to Firefox Send in mode GUI.
 
 REQUERIMENTS:

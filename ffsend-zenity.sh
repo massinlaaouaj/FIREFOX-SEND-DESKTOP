@@ -54,8 +54,22 @@ case "$option" in
                 
     "Download")
                 link="$(zenity --title="FFSEND Download" --text URL --entry)"
-                
-                ffsend download "$link" | xargs -L1 -I % zenity --width=250 --height=250 --info --text=%;;
 
-    "Info") echo "SI";;
+                exists="$(ffsend exists $link)"
+
+                pass="$(echo "$exists" | tr '\n' ' ')"
+
+                IFS=':' read -ra password_true <<< "$pass"
+
+                if [ "${password_true[2]}" = " true " ];
+                then
+                    ffsend download --password="$(zenity --password)" "$link" -y
+                else
+                    ffsend download "$link" -y
+                fi
+                ;;
+
+    "History") 
+                ffsend history | xargs -L1 -I % zenity --width=250 --height=250 --info --text=%
+;;
 esac

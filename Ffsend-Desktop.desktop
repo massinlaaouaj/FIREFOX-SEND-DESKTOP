@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Ffsend Desktop
+Comment=Github:Massin Laaouaj
+Exec=/home/usuari/Desktop/ffsend-zenity.sh
+Icon=/home/usuari/Desktop/firefoxsend.png
+Terminal=false
+Type=Application
+StartupNotify=true

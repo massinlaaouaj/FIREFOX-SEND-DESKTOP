@@ -1,4 +1,4 @@
-# FIREFOX SEND DESKTOP ZENITY
+# FIREFOX SEND DESKTOP
 Upload your files, images, etc to Firefox Send in mode GUI.
 
 ### REQUERIMENTS:

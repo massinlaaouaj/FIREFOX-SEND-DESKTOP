@@ -35,22 +35,6 @@ case "$option" in
                 
                 rm -R /home/$user/Desktop/temporal.tar.gz
                 ;;
-                #echo "$passwordoption";;
-                
-                #if test "$passwordoption" = "Yes"
-                #    then
-                #        echo "HH"
-                #fi
-
-                #for i in "${files[@]}"; do
-                #    echo "$i"
-                #done
-                
-                #echo "${files[*]}"
-                
-
-                
-                #"$(ffsend upload --verbose temporal.tar.gz)";;
                 
     "Download")
                 link="$(zenity --width=500 --title="FFSEND Download" --text URL --entry)"

@@ -1,8 +1,8 @@
 [Desktop Entry]
 Name=Ffsend Desktop
 Comment=Github:Massin Laaouaj
-Exec=/home/usuari/Desktop/ffsend-zenity.sh
-Icon=/home/usuari/Desktop/firefoxsend.png
+Exec=path_that_you_put_folder_'Script Ffsend Zenity'/ffsend-zenity.sh
+Icon=path_that_you_put_folder_'Script Ffsend Zenity'/firefoxsend.png
 Terminal=false
 Type=Application
 StartupNotify=true

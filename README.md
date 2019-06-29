@@ -18,6 +18,16 @@ Upload your files, images, etc to Firefox Send in mode GUI.
 ![qaceB0dCLd](https://user-images.githubusercontent.com/48721794/60378697-84dcac00-9a26-11e9-827d-bf628039f6fe.gif)
 
 
+### CONFIGURE ICON DESKTOP:
+
+![sdsafs](https://user-images.githubusercontent.com/48721794/60381620-d3566e80-9a57-11e9-8775-b36ec89d2d03.PNG)
+
+```
+1- Edit the file "Ffsend Desktop":
+      Exec > Edit "Exec=directory_that_you_put_folder_'Script Ffsend Zenity'/ffsend-zenity.sh"
+      Icon > Edit "Exec=directory_that_you_put_folder_'Script Ffsend Zenity'/firefoxsend.png"
+```
+
 ### VISIT:
 
 https://github.com/timvisee/ffsend

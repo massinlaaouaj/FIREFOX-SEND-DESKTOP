@@ -9,3 +9,8 @@ Upload your files, images, etc to Firefox Send in mode GUI.
 
 -Have installed Zenity
 ```
+
+### VISIT:
+
+https://github.com/timvisee/ffsend
+https://github.com/GNOME/zenity

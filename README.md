@@ -20,7 +20,7 @@ Upload your files, images, etc to Firefox Send in mode GUI.
 ![qaceB0dCLd](https://user-images.githubusercontent.com/48721794/60378697-84dcac00-9a26-11e9-827d-bf628039f6fe.gif)
 
 
-### CONFIGURE ICON DESKTOP:
+### CONFIGURE DIRECT ACCESS ICON DESKTOP:
 
 ![sdsafs](https://user-images.githubusercontent.com/48721794/60381620-d3566e80-9a57-11e9-8775-b36ec89d2d03.PNG)
 

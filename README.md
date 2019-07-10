@@ -26,8 +26,8 @@ Upload your files, images, etc to Firefox Send in mode GUI.
 
 ```
 1- Edit the file "Ffsend Desktop.dektop":
-      Exec > Edit "Exec=path_that_you_put_folder_'Script Ffsend Zenity'/ffsend-zenity.sh"
-      Icon > Edit "Exec=path_that_you_put_folder_'Script Ffsend Zenity'/firefoxsend.png"
+      Exec > Edit line "Exec=path_that_you_put_folder_'Script Ffsend Zenity'/ffsend-zenity.sh"
+      Icon > Edit line "Exec=path_that_you_put_folder_'Script Ffsend Zenity'/firefoxsend.png"
 
 2-Permission to file "Ffsend Desktop.dektop"
       Open terminal > sudo chmod 755 Ffsend Desktop.dektop

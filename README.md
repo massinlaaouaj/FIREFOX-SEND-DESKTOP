@@ -1,5 +1,5 @@
 # FIREFOX SEND DESKTOP
-Upload your files, images, etc to Firefox Send in mode GUI.
+Upload your files, images, and more to Firefox Send in mode GUI.
 
 ### REQUIREMENTS:
 ```

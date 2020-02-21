@@ -15,7 +15,7 @@ Upload your files, images, and more to Firefox Send in mode GUI.
 
 ### CAPTURES:
 
-![sdsafs](https://user-images.githubusercontent.com/48721794/60378556-4a720f80-9a24-11e9-9c2e-f826c4ecd90c.PNG)
+![Captura](https://user-images.githubusercontent.com/48721794/75053634-ea0f7100-54d1-11ea-9b2b-9324648b7f1f.PNG)
 
 ![qaceB0dCLd](https://user-images.githubusercontent.com/48721794/60378697-84dcac00-9a26-11e9-827d-bf628039f6fe.gif)
 
